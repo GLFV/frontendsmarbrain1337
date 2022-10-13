@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontendsmarbrain1337/static/css/main.fd84d684.chunk.css",
+    "main.js": "/frontendsmarbrain1337/static/js/main.f51be5b6.chunk.js",
+    "main.js.map": "/frontendsmarbrain1337/static/js/main.f51be5b6.chunk.js.map",
+    "runtime-main.js": "/frontendsmarbrain1337/static/js/runtime-main.520d1b20.js",
+    "runtime-main.js.map": "/frontendsmarbrain1337/static/js/runtime-main.520d1b20.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/frontendsmarbrain1337/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.a940ea26.chunk.js": "/frontendsmarbrain1337/static/js/2.a940ea26.chunk.js",
+    "static/js/2.a940ea26.chunk.js.map": "/frontendsmarbrain1337/static/js/2.a940ea26.chunk.js.map",
+    "index.html": "/frontendsmarbrain1337/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/frontendsmarbrain1337/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.fd84d684.chunk.css.map": "/frontendsmarbrain1337/static/css/main.fd84d684.chunk.css.map",
+    "static/js/2.a940ea26.chunk.js.LICENSE.txt": "/frontendsmarbrain1337/static/js/2.a940ea26.chunk.js.LICENSE.txt",
+    "static/media/brain.610e1112.png": "/frontendsmarbrain1337/static/media/brain.610e1112.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.520d1b20.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.a940ea26.chunk.js",
+    "static/css/main.fd84d684.chunk.css",
+    "static/js/main.f51be5b6.chunk.js"
+  ]
+}
