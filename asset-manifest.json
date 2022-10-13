@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontendsmarbrain1337/static/css/main.fd84d684.chunk.css",
-    "main.js": "/frontendsmarbrain1337/static/js/main.f51be5b6.chunk.js",
-    "main.js.map": "/frontendsmarbrain1337/static/js/main.f51be5b6.chunk.js.map",
+    "main.js": "/frontendsmarbrain1337/static/js/main.dcb45e6a.chunk.js",
+    "main.js.map": "/frontendsmarbrain1337/static/js/main.dcb45e6a.chunk.js.map",
     "runtime-main.js": "/frontendsmarbrain1337/static/js/runtime-main.520d1b20.js",
     "runtime-main.js.map": "/frontendsmarbrain1337/static/js/runtime-main.520d1b20.js.map",
     "static/css/2.6d7c7915.chunk.css": "/frontendsmarbrain1337/static/css/2.6d7c7915.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.a940ea26.chunk.js",
     "static/css/main.fd84d684.chunk.css",
-    "static/js/main.f51be5b6.chunk.js"
+    "static/js/main.dcb45e6a.chunk.js"
   ]
 }
